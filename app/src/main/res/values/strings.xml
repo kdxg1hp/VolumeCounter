@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">分数计数器</string>
+    <string name="score_display">分数: %d</string>
+</resources>
